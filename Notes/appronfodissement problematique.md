@@ -24,3 +24,21 @@ la ligne entre les deux est fine mais est très longue a traverser
 tant que les IA sont probabilistiques et ont des capacités
 décisionnelle faibles elles ne resteront que des outils assistant l'homme 
 et ne pourra le remplacer 
+
+ATTENTION! va peut etre falloir reformuler la problématique à cause du
+point suivant:
+deep learning, machine learning et IA sont differents 
+il faut bien l'expliquer dans l'introduction 
+et peut etre aussi dans le résumé de memoire 
+(qui sers en gros à approfondir la problématique d'une phrase en plusieurs paragraphes)
+
+
+la majorité des job pouvant être remplacé sont des blue et white collars
+car il s'agit souvent de taches avec une valeur ajouté assez simple 
+-> les emploi à forte valeur ajouté seront peu touchés ce qui veut dire
+qu'il faut recentrer l'education pour developper l'intelligence créative 
+et les compétences au services de la technologie 
+
+
+Bruegel analysis: 54% des job en EU risque d'etre automatisé 
+

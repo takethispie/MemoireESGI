@@ -35,3 +35,5 @@ http://www.strategie.gouv.fr/infographies/intelligence-artificielle-travail-risq
 https://www.cadreo.com/actualites/dt-intelligence-artificielle-travail-craintes-fascination
 
 https://blog.futuresfestivals.com/humans-of-ia-angus-ai/
+
+http://bruegel.org/2014/07/chart-of-the-week-54-of-eu-jobs-at-risk-of-computerisation/
