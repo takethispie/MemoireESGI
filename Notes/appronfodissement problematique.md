@@ -42,16 +42,20 @@ qu'il faut recentrer l'education pour developper l'intelligence créative
 et les compétences au services de la technologie 
 
 
-Bruegel analysis: 54% des job en EU risque d'etre automatisé, le nord de l'europe moins touché (comme aujourdhui avec un tot de chomage plus elevé dans le sud de l'europe aka italit, grece et espagne)
+Bruegel analysis: 54% des job en EU risque d'etre automatisé, le nord de l'europe moins touché 
+(comme aujourdhui avec un tot de chomage plus elevé dans le sud de l'europe aka italit, grece et espagne)
 
-voir les impacts de l'automatisation simple comme les robot dans les usine de production de voiture pour faire un paralelle avec les risque de 
-l'IA
+voir les impacts de l'automatisation simple comme les robot dans les usine de production de voiture 
+pour faire un paralelle avec les risque de l'IA
 
 
 idée de conclusion:
-oui il y aura un impact mais celui ci pourra etre limité avec un changement radical dans le politique d'education et si des règles encadre ces changements pour eviter de creuser encore plus les inégalité déjà existantes
+oui il y aura un impact mais celui ci pourra etre limité avec un changement radical dans 
+la politique d'education et si des règles encadre ces changements pour eviter de creuser 
+encore plus les inégalité déjà existantes
 
-retournement du point de vu complet -> exemple pour le medical, et si la resistance à l'automatisation empeche des innovation 
+retournement du point de vu complet -> exemple pour le medical, 
+et si la resistance à l'automatisation empeche des innovation 
 
 #ebauche plan
 
