@@ -7,3 +7,6 @@
 *.gz
 *.toc
 _minted-rapport
+*.bbl
+*.blg
+*.fls

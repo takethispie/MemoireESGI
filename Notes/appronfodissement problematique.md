@@ -1,3 +1,5 @@
+#brainstorming
+
 au début: automatisation routine, amelioration de process non efficient
 deviens facteur d'innovation 
 toujours utilisé en terme "d'augmentation" de performance de solution existant en non 
@@ -50,3 +52,15 @@ idée de conclusion:
 oui il y aura un impact mais celui ci pourra etre limité avec un changement radical dans le politique d'education et si des règles encadre ces changements pour eviter de creuser encore plus les inégalité déjà existantes
 
 retournement du point de vu complet -> exemple pour le medical, et si la resistance à l'automatisation empeche des innovation 
+
+#ebauche plan
+
+problématique:
+"Est ce que l'IA aura un réel impact sur le marché du travail dans les année à venir ?"
+- introduction 
+
+- contexte: 
+    > qu'est ce qui definit l'IA,le deep learning et le machine learning 
+    > 
+
+- 
