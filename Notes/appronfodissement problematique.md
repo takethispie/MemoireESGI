@@ -48,14 +48,38 @@ Bruegel analysis: 54% des job en EU risque d'etre automatisé, le nord de l'euro
 voir les impacts de l'automatisation simple comme les robot dans les usine de production de voiture 
 pour faire un paralelle avec les risque de l'IA
 
+en general pour la plupart des secteurs:
+- risque de disparition des emploi à tache repetitive (peu de valeur ajouté)
+- monté en specialisation et compétence des humain -> risque de surcharge mental car les humains ne travaillerait 
+que sur la resolution des problemes (http://www.strategie.gouv.fr/infographies/intelligence-artificielle-travail-risques-opportunites)
+- augmentation de la disponibilité 
 
-idée de conclusion:
+et si l'IA remplacait l'humain quand celui ci ne travaille pas ? 
+par exemple -> dans le domaine du batiment, l'humain travaille la journée et l'IA travaille la nuit 
+            -> administratif: humain au 35h voir moins, IA prend le relais le reste de la journée 
+            = on utilise l'IA pour entendre la disponibilité des services 
+            le probleme est que ce principe va à l'encontre du capitalisme, pourquoi garder des humain cher quand on peu 
+            utiliser des robot TOUT le temp et pas seulemen quand un humain peut travailler ? 
+ces problemes sociaux sont recurrent lors des revolution technologique (revolution agricole, revolution industrielle, revolution des service, etc)
+des métiers deviennent dépasés et cela apporte de fort challenges sociaux 
+
+ethique de l'IA ? de nombreuses tete pensantes ont exprimés leur inquietude quand à l'IA 
+(Elon Musk, Stephen Hawkings, etc)
+qu'elle place à l'IA aujourdhui dans la legislation (s'il en existe une !) aujourdhui ? et demain ?
+est ce que des règles trop strict risque d'empecher l'innovation technologique ? 
+-> faire une retrospective sur comment les precedentes revolution technologiques auraient été touché s'il y avait les regulations
+d'aujourdhui comme la penibilité du travail ou autre ?
+
+retournement du point de vu complet -> exemple pour le medical, 
+et si la resistance à l'automatisation empeche des innovation ?
+
+
+#idée de conclusion:
 oui il y aura un impact mais celui ci pourra etre limité avec un changement radical dans 
 la politique d'education et si des règles encadre ces changements pour eviter de creuser 
 encore plus les inégalité déjà existantes
 
-retournement du point de vu complet -> exemple pour le medical, 
-et si la resistance à l'automatisation empeche des innovation 
+
 
 #ebauche plan
 
@@ -65,6 +89,6 @@ problématique:
 
 - contexte: 
     > qu'est ce qui definit l'IA,le deep learning et le machine learning 
-    > 
+    > état actuel de l'utilisation de l'IA en entreprise 
 
 - 
