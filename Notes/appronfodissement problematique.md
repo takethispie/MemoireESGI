@@ -1,16 +1,32 @@
 #brainstorming
 
-au début: automatisation routine, amelioration de process non efficient
-deviens facteur d'innovation 
-toujours utilisé en terme "d'augmentation" de performance de solution existant en non 
-en tant que solution a part entiere
+__**Au début**__: automatisation routine, amelioration de process non efficient,
+calculs mathématiques poussés (1959 : General Problem Resolver) + démonstration et redémonstration de théorèmes
+optimisation des tâches en les traduisant en termes mathématiques calculables plus aisément
+délégation de tâches redondantes et apportant peu de d'expérience / savoir-faire
+deviens facteur d'innovation
+mise en place d'arbres décisionnels -> systèmes experts
+création de nouveaux workflows dans la création d'un produit ou dans la fourniture d'un service -> IA = nouvel outil à disposition
+toujours utilisé en terme "d'augmentation" de performance de solution existant et non en tant que solution a part entiere
 
-dans année proches: utilise IA pour trouver des opportunités 
--> toujours dans le sens d'utiliser IA pour interpreter des informations 
+__**Dans les années proches**__: utilise IA pour trouver des opportunités
+-> toujours dans le sens d'utiliser IA pour interpreter des informations
 et non en tant que force decisionnelle (ce dont notre maitre de memoire avait parlé)
+-> force d'anticipation (ex: prédiction des besoins et envies d'un consommateur sur un site marchant)
+l'IA est désormais plus poussée dans son processus de compréhension et est capable de réorganiser ce dernier
+-> compréhension des choses influencées par ses propres résultats et ceux d'autres IAs -> influencables
+-> utilisations parfois similaires à cerveau (ensemble de neurones interconnectés) -> regroupement
+prémices de l'autonomie de l'IA pour certaines prises de décision  (ex: véhicules autonomes)
 
-utilisation de l'IA dans la R&D ? 
+__**Utilisation de l'IA dans la R&D ?**__
+Réseaux d'IA (réseaux sur lesquels les IA et d'autres services avec lesquels ils communiquent sont connectés)
+Utilisée dans le traitement massif de données (big data)
+Généralement pour la déduction de ce qui rapporterait le plus de valeur au client
+En amont les chercheurs redéfinissent de l'éco système du business(les méchanismes, les produits résultants des méchanismes et les acteurs)
+en fonction de la clientèle / du but visé(e)
 
+
+__**l'IA remplace-t-elle l'humain?**__
 dans la majorité des métier l'IA peut remplacer que certaines tache d'un métier 
 et donc l'humain reste indispensable
 
@@ -34,6 +50,9 @@ il faut bien l'expliquer dans l'introduction
 et peut etre aussi dans le résumé de memoire 
 (qui sers en gros à approfondir la problématique d'une phrase en plusieurs paragraphes)
 
+dans certains cas les tâches qui ne demandent pas un changement complet ou majeur du contexte d'opération (de concrétisation de la tâche)
+et où les décisions sont prises de façon logique via la prise en compte de paramètres 
+les humains sont potentiellement remplaçables
 
 la majorité des job pouvant être remplacé sont des blue et white collars
 car il s'agit souvent de taches avec une valeur ajouté assez simple 
@@ -48,11 +67,13 @@ Bruegel analysis: 54% des job en EU risque d'etre automatisé, le nord de l'euro
 voir les impacts de l'automatisation simple comme les robot dans les usine de production de voiture 
 pour faire un paralelle avec les risque de l'IA
 
-en general pour la plupart des secteurs:
-- risque de disparition des emploi à tache repetitive (peu de valeur ajouté)
-- monté en specialisation et compétence des humain -> risque de surcharge mental car les humains ne travaillerait 
-que sur la resolution des problemes (http://www.strategie.gouv.fr/infographies/intelligence-artificielle-travail-risques-opportunites)
-- augmentation de la disponibilité 
+__**en general pour la plupart des secteurs**__:
+
+- __risque de disparition des emploi à tache repetitive (peu de valeur ajouté)__
+
+- __monté en specialisation et compétence des humain -> risque de surcharge mental car les humains ne travaillerait que sur la [resolution des problemes](http://www.strategie.gouv.fr/infographies/intelligence-artificielle-travail-risques-opportunites)__
+
+- __augmentation de la disponibilité__
 
 et si l'IA remplacait l'humain quand celui ci ne travaille pas ? 
 par exemple -> dans le domaine du batiment, l'humain travaille la journée et l'IA travaille la nuit 
@@ -63,7 +84,8 @@ par exemple -> dans le domaine du batiment, l'humain travaille la journée et l'
 ces problemes sociaux sont recurrent lors des revolution technologique (revolution agricole, revolution industrielle, revolution des service, etc)
 des métiers deviennent dépasés et cela apporte de fort challenges sociaux 
 
-ethique de l'IA ? de nombreuses tete pensantes ont exprimés leur inquietude quand à l'IA 
+__**ethique de l'IA ?**__
+ de nombreuses tete pensantes ont exprimés leur inquietude quand à l'IA 
 (Elon Musk, Stephen Hawkings, etc)
 qu'elle place à l'IA aujourdhui dans la legislation (s'il en existe une !) aujourdhui ? et demain ?
 est ce que des règles trop strict risque d'empecher l'innovation technologique ? 
@@ -74,10 +96,14 @@ retournement du point de vu complet -> exemple pour le medical,
 et si la resistance à l'automatisation empeche des innovation ?
 
 
+
 #idée de conclusion:
 oui il y aura un impact mais celui ci pourra etre limité avec un changement radical dans 
 la politique d'education et si des règles encadre ces changements pour eviter de creuser 
 encore plus les inégalité déjà existantes
+Le système éducatif actuel devrait se conformer à l'apparition des IA afin de d'informer la population
+sur ce que représente véritablement l'IA en termes de progrès et de simplification de tâche
+afin que cette population ne subisse pas de désinformation sur les changement provoqus par l'apparition de l'IA
 
 
 
@@ -89,6 +115,11 @@ problématique:
 
 - contexte: 
     > qu'est ce qui definit l'IA,le deep learning et le machine learning 
-    > état actuel de l'utilisation de l'IA en entreprise 
+    > état actuel de l'utilisation de l'IA en entreprise (façon dont l'IA est utilisée, dans quel(s) but(s), quel(s) domaines(s)?)
 
-- 
+- partie 1: l'IA remplace l'humain pour des tâches répétitives et à peu de valeur ajoutée (?)
+    > 
+
+- partie 2: l'IA ne remplace pas l'humain pour la prise de décision sur des contextes variants (?)
+
+- partie 3: l'IA sert de nouvel outil spécialisé pour le travail de l'humain (?)
