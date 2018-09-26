@@ -110,6 +110,9 @@ afin que cette population ne subisse pas de désinformation sur les changement p
 #ebauche plan
 
 problématique:
+//on agrandi à l'automatisation pour integrer le deep learnign et le machine 
+//learning, l'IA est limitant comme terme 
+
 "Est ce que l'IA aura un réel impact sur le marché du travail dans les année à venir ?"
 - introduction 
 
