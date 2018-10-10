@@ -118,8 +118,21 @@ problématique:
     > qu'est ce qui definit l'IA,le deep learning et le machine learning
     > état actuel de l'utilisation de l'IA en entreprise (façon dont l'IA est utilisée, dans quel(s) but(s), quel(s) domaines(s)?)
 
+- partie 1: l'IA remplace l'Humain pour des tâches répétitives et à peu de valeur ajoutée (?)
+
+- partie 2: l'Humain se spécialise dans les tâches plus complexes et au contexte variant que l'IA ne peut accomplir
+
+---
+
+Idées concernant cette ébauche de plan :
+
+- 2 parties => plus de pages par parties donc moins de contraintes d'écriture
+
+- 2ème partie => conséquence de la 1ère partie (relation de cause à effet)
+
+- construction du plan => pas de plan thématique comme avant, mais on évoque des idées que l'on retrouve dans tous les métiers où l'IA va sans doute être appliquée
+
+<!--
 - partie 1: l'IA ne remplace pas l'humain pour la prise de décision sur des contextes variants (?)
 
-- partie 2: l'IA remplace l'humain pour des tâches répétitives et à peu de valeur ajoutée (?)
-
-- partie 3: l'IA sert de nouvel outil spécialisé pour le travail de l'humain (?)
+- partie 3: l'IA sert de nouvel outil spécialisé pour le travail de l'humain (?) -->
