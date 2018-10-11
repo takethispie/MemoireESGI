@@ -112,11 +112,7 @@ problématique:
 
 "Comment l'IA aura un réel impact sur le marché du travail dans les années à venir ?"
 
-- introduction
-
-- contexte:
-    > qu'est ce qui definit l'IA,le deep learning et le machine learning
-    > état actuel de l'utilisation de l'IA en entreprise (façon dont l'IA est utilisée, dans quel(s) but(s), quel(s) domaines(s)?)
+- Résumé: présentation du sujet du mémoire 
 
 - partie 1: l'IA remplace l'Humain pour des tâches répétitives et à peu de valeur ajoutée (?)
 
@@ -132,7 +128,3 @@ Idées concernant cette ébauche de plan :
 
 - construction du plan => pas de plan thématique comme avant, mais on évoque des idées que l'on retrouve dans tous les métiers où l'IA va sans doute être appliquée
 
-<!--
-- partie 1: l'IA ne remplace pas l'humain pour la prise de décision sur des contextes variants (?)
-
-- partie 3: l'IA sert de nouvel outil spécialisé pour le travail de l'humain (?) -->
