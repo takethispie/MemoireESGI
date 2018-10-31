@@ -10,5 +10,25 @@
         "*.glo": true,
         "*.lof": true,
         "*.gz": true
-    }
+    },
+    "latex-workshop.latex.recipes": [
+        {
+          "name": "pdflatex*3",
+          "tools": [
+            "pdflatex",
+            "pdflatex",
+            "pdflatex"
+          ]
+        },
+        {
+          "name": "pdflatex -> bibtex -> pdflatex*2",
+          "tools": [
+            "pdflatex",
+            "bibtex",
+            "pdflatex",
+            "pdflatex"
+          ]
+        }
+      ]
+
 }
