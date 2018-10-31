@@ -52,4 +52,8 @@ https://hackernoon.com/5-reasons-ai-wont-replace-humans-it-will-make-us-superhum
 
 https://www.developpez.com/actu/228424/70-pourcent-des-projets-d-IA-dans-le-commerce-numerique-sont-couronnes-de-succes-d-apres-un-sondage-realise-par-Gartner/
 
+//souligne des choses interessantes notamment le fait 
+//que la différence entre l'IA faible et forte est la capacité 
+//d'émotion et que l'émotion serait irreductible au calcul
+//donc il serait impossible de passer d'IA faible -> forte
 https://usbeketrica.com/article/intelligence-artificielle-faible-forte
