@@ -5,11 +5,12 @@
         "**/.hg": true,
         "**/CVS": true,
         "**/.DS_Store": true,
-        "*.aux": true,
-        "*.ist": true,
-        "*.glo": true,
-        "*.lof": true,
-        "*.gz": true
+        "**/*.aux": true,
+        "**/*.ist": true,
+        "**/*.glo": true,
+        "**/*.lof": true,
+        "**/*.gz": true,
+        "**/*.toc": true
     },
     "latex-workshop.latex.recipes": [
         {
@@ -29,6 +30,6 @@
             "pdflatex"
           ]
         }
-      ]
-
+      ],
+    
 }
