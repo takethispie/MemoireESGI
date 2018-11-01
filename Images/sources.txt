@@ -1,0 +1,1 @@
+deepnn et shallownn: https://www.rsipvision.com/exploring-deep-learning/
