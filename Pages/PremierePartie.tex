@@ -14,6 +14,8 @@ Elle reproduit un comportement de manière le plus précise possible,
 en s'ameliorant notamment grâce à l'apprentissage 
 mais n'en n'imite pas le fonctionnement ce qui fait que
 ce type d'IA ne fait que simuler de l'intelligence. \newline
+Aujourd'hui il n'existe que des intelligences artificelles faibles qui peuvent  
+être séparées en plusieurs technique et sous-domaines \newline
 
 \begin{figure}[!h]
     \centering
@@ -28,24 +30,23 @@ Le Machine Learning est un ensemble de techniques qui permettent à un ordinateu
 d'agir et d'apprendre comme un humain tout en s'améliorant au fur et 
 à mesure et ce de manière autonome. \newline
 
-le fonctionnement du machine learning ce découpe en plusieurs parties,
-tout d'abord des data scientists doivent définir des features, c'est à dire des
+Le fonctionnement du machine learning ce découpe en plusieurs parties,
+tout d'abord il faut définir des features, c'est à dire des
 propriétés mesurables individuellement, cette partie est difficile et cruciale
-car elle va déterminer l'efficacité de l'algorithme de machine learning.
+car elle va déterminer l'efficacité de l'algorithme de machine learning. \newline
 
-
-%il manque des explication entre ces deux paragraphes
-
-la machine learning traditionnel ou "shallow", en contraste avec le deep learning,
-réside dans la nécessité de selectionner manuellement les features qui doivent être 
-identifiés par l'algorithme de machine learning 
-
+différents algorithme vont ensuite servir à extraire les features de données 
+brut en entrée avant de les envoyer a l'algorithme de machine learning, par exemple 
+la reconnaissance de bords ou de forme geométriques extraient les features d'une 
+image dans une IA de reconnaissance d'image. \newline 
 
 
 \subsection{Deep Learning}
 Le Deep Learning est une sous catégorie du machine learning, 
 la différence majeur réside dans le fonctionnement du traitement des 
-informations:
+informations, le machine learning traditionnel ou "shallow", en contraste avec le deep learning,
+réside dans la nécessité de selectionner manuellement les features qui doivent être 
+identifiés par l'algorithme de machine learning
 
 \begin{figure}[!h]
     \centering
@@ -54,6 +55,16 @@ informations:
 	\label{fig:categorieIA}
 \end{figure}
 
+%explication basique d'un réseau de neurones avant le schema
+
+
+\newpage
+\begin{figure}[!h]
+    \centering
+    \includegraphics[width=1\textwidth]{Images/feedforward-nn}
+    \caption{Réseau de neurones avec 2 couches cachées}
+	\label{fig:categorieIA}
+\end{figure}
 
 %à mettre en fin ou en intro de la section ci-dessous ou à modifier
 Du point de vue d'un observateur externe, l'IA faible

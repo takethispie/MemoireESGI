@@ -128,3 +128,7 @@ Idées concernant cette ébauche de plan :
 
 - construction du plan => pas de plan thématique comme avant, mais on évoque des idées que l'on retrouve dans tous les métiers où l'IA va sans doute être appliquée
 
+"explicabilité" => aujourdhui les entreprises ne font pas confiance au IA
+l'explicabilité est la capacité à une IA de présenter de manière humainement compréhensible son cheminement qui l'a amené à un résultat 
+=> si les entreprises ont déjà du mal avec les IA ultra basique 
+ne serait-ce pas encore pire avec des IA remplacant les humain ? 
