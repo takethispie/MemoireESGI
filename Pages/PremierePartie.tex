@@ -11,13 +11,13 @@ en s'ameliorant notamment grâce à l'apprentissage
 mais n'en n'imite pas le fonctionnement ce qui fait que
 ce type d'IA ne fait que simuler de l'intelligence. \newline
 Aujourd'hui il n'existe que des intelligences artificelles faibles qui peuvent  
-être séparées en plusieurs technique et sous-domaines \newline
+être séparées en plusieurs technique et sous-domaines: \newline
 
 \begin{figure}[!h]
     \centering
     \includegraphics[width=0.8\textwidth]{Images/aitype}
     \caption{Les différents domaines de l'Intelligence Artificielle}
-	\label{fig:categorieIA}
+	\label{fig:DiffDomaineIA}
 \end{figure}
 \newpage
 
@@ -44,39 +44,47 @@ Enfin l'algorithme de machine learning va passer au travers de 3 sets de donnée
     \item un set de validation qui va verifier le modèle crée à partir du set de 
     training.
     \item un set de test qui permet de tester la version finale de l'algorithme. 
+    \newline
 \end{itemize}
+
+Le machine learning utilise les "réseaux de neurones", qui ont fait leurs premières 
+apparition à partir de 1980, il s'agit de structure algorithme imitant 
+le comportement des neurones dans le cerveau humain, 
+les neurones sont divisé en différentes couches: couche d'entrée, couche(s) cachée
+et couche de sortie, dans le cas du "shallow" machine learning, le réseaux de neurones 
+n'est composé que d'une seule couche cachée: 
+
+\begin{figure}[!h]
+    \centering
+    \includegraphics[width=0.4\textwidth]{Images/shallownnoverview}
+    \caption{Réseau de neurones avec 2 couches cachées}
+	\label{fig:NN2Layers}
+\end{figure}
+
+Ce type de réseaux de neurones est entrainé de manière supervisé mais dès lors qu'il 
+y a plus d'une couche cachée, il n'est plus possible de l'entrainer ainsi,
+l'alternative qui répond à ce problème est l'apprentissage profond ou 
+deep learning qui utilise des réseaux de neurones avec de multiple couches 
+cachées.  
+
 
 \subsection{Deep Learning}
 Le Deep Learning est une sous catégorie du machine learning, 
 la différence majeur réside dans le fonctionnement du traitement des 
-informations, le machine learning traditionnel ou "shallow", en contraste avec le deep learning,
-réside dans la nécessité de selectionner manuellement les features qui doivent être 
-identifiés par l'algorithme de machine learning:
+informations, le machine learning traditionnel ou "shallow", en contraste avec le deep 
+learning, réside dans la nécessité de selectionner manuellement les features 
+qui doivent être identifiés par l'algorithme de machine learning:
 
 \begin{figure}[!h]
     \centering
     \includegraphics[width=1\textwidth]{Images/MLvsDL}
     \caption{Différences entre machine learning et deep learning}
-	\label{fig:categorieIA}
+	\label{fig:DiffMLDL}
 \end{figure}
 
-Le machine learning utilise des "réseaux de neurones", qui ont fait leurs premières 
-apparition à partir de 1980, il s'agit de structure logiques imitant 
-le comportement des neurones dans le cerveau humain, 
-les neurones sont divisé en différentes couches: couche d'entrée, couche(s) cachée
-et couche de sortie. 
+
+
 \newpage
-
-Dans le cas du "shallow" machine learning, le réseaux de neurones n'est composé 
-qu'au maximum de 2 couches 
-
-\begin{figure}[!h]
-    \centering
-    \includegraphics[width=1\textwidth]{Images/feedforward-nn}
-    \caption{Réseau de neurones avec 2 couches cachées}
-	\label{fig:categorieIA}
-\end{figure}
-
 %à mettre en fin ou en intro de la section ci-dessous ou à modifier
 Du point de vue d'un observateur externe, l'IA faible
 semble maitriser des concepts mais il n'en n'est rien dans la 
@@ -86,14 +94,6 @@ que des éléments correspondant au critères avec lequels elle a été
 entrainé, si on lui présente un élément avec une variance elle 
 sera incapable de le reconnaitre.
 
-\newpage
 \section{Intelligence Artificielle Forte}
 L'intelligence artificelle forte est l'intelligence
 telle qu'elle existe chez l'homme, 
-
-%apres l'explication il faut montrer quelques cas d'utilisation
-%en situation réelle de ces technos je pense 
-
-
-
-
