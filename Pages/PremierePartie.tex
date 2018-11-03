@@ -1,7 +1,3 @@
-%tout ce qui est dans ce chapitre doit etre succint%
-%l'approfondissement se fera dans la seconde partie avec%
-%le cas d'étude%
-
 \chapter{L'intelligence artificelle aujourd'hui}
 L'intelligence Artificelle est un domaine faisant partie 
 des sciences cognitives dont l'objectif est de mettre au
@@ -35,18 +31,27 @@ tout d'abord il faut définir des features, c'est à dire des
 propriétés mesurables individuellement, cette partie est difficile et cruciale
 car elle va déterminer l'efficacité de l'algorithme de machine learning. \newline
 
-différents algorithme vont ensuite servir à extraire les features de données 
+%je ne suis pas sur pour cette partie
+Différents algorithme vont ensuite servir à extraire les features de données 
 brut en entrée avant de les envoyer a l'algorithme de machine learning, par exemple 
 la reconnaissance de bords ou de forme geométriques extraient les features d'une 
 image dans une IA de reconnaissance d'image. \newline 
 
+Enfin l'algorithme de machine learning va passer au travers de 3 sets de données:
+\begin{itemize}
+    \item un set de training va permettre d'entrainer l'algorithme de manière
+     supervisé, ce set utilise des vecteurs d'entrée et leur sortie attendue.
+    \item un set de validation qui va verifier le modèle crée à partir du set de 
+    training.
+    \item un set de test qui permet de tester la version finale de l'algorithme. 
+\end{itemize}
 
 \subsection{Deep Learning}
 Le Deep Learning est une sous catégorie du machine learning, 
 la différence majeur réside dans le fonctionnement du traitement des 
 informations, le machine learning traditionnel ou "shallow", en contraste avec le deep learning,
 réside dans la nécessité de selectionner manuellement les features qui doivent être 
-identifiés par l'algorithme de machine learning
+identifiés par l'algorithme de machine learning:
 
 \begin{figure}[!h]
     \centering
@@ -55,10 +60,16 @@ identifiés par l'algorithme de machine learning
 	\label{fig:categorieIA}
 \end{figure}
 
-%explication basique d'un réseau de neurones avant le schema
-
-
+Le machine learning utilise des "réseaux de neurones", qui ont fait leurs premières 
+apparition à partir de 1980, il s'agit de structure logiques imitant 
+le comportement des neurones dans le cerveau humain, 
+les neurones sont divisé en différentes couches: couche d'entrée, couche(s) cachée
+et couche de sortie. 
 \newpage
+
+Dans le cas du "shallow" machine learning, le réseaux de neurones n'est composé 
+qu'au maximum de 2 couches 
+
 \begin{figure}[!h]
     \centering
     \includegraphics[width=1\textwidth]{Images/feedforward-nn}
@@ -78,7 +89,10 @@ sera incapable de le reconnaitre.
 \newpage
 \section{Intelligence Artificielle Forte}
 L'intelligence artificelle forte est l'intelligence
-telle qu'elle existe chez l'homme
+telle qu'elle existe chez l'homme, 
+
+%apres l'explication il faut montrer quelques cas d'utilisation
+%en situation réelle de ces technos je pense 
 
 
 
