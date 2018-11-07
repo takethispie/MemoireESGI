@@ -57,3 +57,28 @@ https://www.developpez.com/actu/228424/70-pourcent-des-projets-d-IA-dans-le-comm
 //d'émotion et que l'émotion serait irreductible au calcul
 //donc il serait impossible de passer d'IA faible -> forte
 https://usbeketrica.com/article/intelligence-artificielle-faible-forte
+
+
+//various business application
+https://www.techemergence.com/ai-in-business-intelligence-applications/
+
+https://www.hackerearth.com/blog/innovation-management/applications-of-artificial-intelligence/
+
+https://venturebeat.com/2018/06/30/understanding-the-practical-applications-of-business-ai/
+
+
+
+//finance
+https://towardsdatascience.com/machine-learning-in-finance-why-what-how-d524a2357b56
+
+https://searcherp.techtarget.com/feature/Using-AI-for-finance-is-easy-to-imagine-but-hard-to-do
+
+https://www.betterment.com/press/newsroom/robo-advisors-taking-wall-street-ais-now-managing-portfolios-worth-tens-millions-high-wealth-customers/
+
+https://www.schwab.com/public/schwab/investment_advice/intelligent_portfolios
+
+http://www.lvb.com/article/20180730/LVB01/180729878/ai--or-robo-advising--gains-in-investment-managing
+
+https://www.americanbanker.com/podcast/can-betterment-become-the-amazon-of-financial-services
+
+https://www.wealthmanagement.com/technology/wealthfront-turns-artificial-intelligence-improve-robo-advice
