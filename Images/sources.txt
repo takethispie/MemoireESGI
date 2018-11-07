@@ -1,3 +1,4 @@
 deepnn https://www.rsipvision.com/exploring-deep-learning/
 shallownnoverview: https://en.wikipedia.org/wiki/Artificial_neural_network#/media/File:Colored_neural_network.svg
 layeredrepresentation:  Andrew Ng
+artificianeuron: Pedro Larroy Tovar
