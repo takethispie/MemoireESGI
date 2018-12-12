@@ -136,3 +136,4 @@ https://bookboon.com/blog/2013/12/francais-les-5-composantes-de-lintelligence-em
 
 infos pertinentes deep network
 https://ai.stackexchange.com/questions/2820/why-are-deep-neural-networks-and-deep-learning-insufficient-to-achieve-general-i
+
