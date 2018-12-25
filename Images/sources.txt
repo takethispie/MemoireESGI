@@ -3,3 +3,4 @@ shallownnoverview: https://en.wikipedia.org/wiki/Artificial_neural_network#/medi
 layeredrepresentation:  Andrew Ng
 artificianeuron: Pedro Larroy Tovar
 virtualassistant: THE WALL STREET JOURNAL https://www.wsj.com/articles/alexa-siri-cortana-the-problem-with-all-female-digital-assistants-1487709068
+vaqueryresult: https://loupventures.com/annual-digital-assistant-iq-test-siri-google-assistant-alexa-cortana/
