@@ -4,3 +4,4 @@ layeredrepresentation:  Andrew Ng
 artificianeuron: Pedro Larroy Tovar
 virtualassistant: THE WALL STREET JOURNAL https://www.wsj.com/articles/alexa-siri-cortana-the-problem-with-all-female-digital-assistants-1487709068
 vaqueryresult: https://loupventures.com/annual-digital-assistant-iq-test-siri-google-assistant-alexa-cortana/
+accuracyperaccent: https://www.washingtonpost.com/graphics/2018/business/alexa-does-not-understand-your-accent/?utm_term=.81077ca71719
