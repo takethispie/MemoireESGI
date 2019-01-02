@@ -1,0 +1,30 @@
+\ifglsentryexists{API}{}%
+{%
+\gls@defglossaryentry{API}%
+{%
+name={API},%
+sort={API},%
+type={main},%
+first={API},%
+firstplural={APIs},%
+text={API},%
+plural={APIs},%
+description={Acronyme de Application Programming Interface est une interface d'un logiciel qui permet l'accès de ce dernier par d'autres logiciel},%
+descriptionplural={Acronyme de Application Programming Interface est une interface d'un logiciel qui permet l'accès de ce dernier par d'autres logiciel},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
