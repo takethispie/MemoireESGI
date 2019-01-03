@@ -137,7 +137,20 @@ https://bookboon.com/blog/2013/12/francais-les-5-composantes-de-lintelligence-em
 infos pertinentes deep network
 https://ai.stackexchange.com/questions/2820/why-are-deep-neural-networks-and-deep-learning-insufficient-to-achieve-general-i
 
+IBM Watson: 
 https://thomaswdinsmore.com/2018/02/21/notes-on-a-watson-fail/
 
 https://www.utsystem.edu/sites/default/files/documents/UT%20System%20Administration%20Special%20Review%20of%20Procurement%20Procedures%20Related%20to%20UTMDACC%20Oncology%20Expert%20Advisor%20Project/ut-system-administration-special-review-procurement-procedures-related-utmdacc-oncology-expert-advis.pdf
+
+
+Google Deepmind: 
+https://techxplore.com/news/2016-10-google-deepmind-neural-networks.html
+
+https://arxiv.org/pdf/1312.5602v1.pdf
+
+https://www.techworld.com/apps-wearables/google-deepmind-what-is-it-how-it-works-should-you-be-scared-3615354/
+
+
+reinforcement learning:
+https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287
 
