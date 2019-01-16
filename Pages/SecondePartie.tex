@@ -398,14 +398,45 @@ Un agent intelligent peut également apprendre ou utiliser des connaissances pou
  ses objectifs. Les agents intelligents sont souvent décrit schématiquement comme des systèmes fonctionnels abstrait 
 similaire au logiciels informatique. Certaines définition mettent en avant leur autonomie 
 et vont donc préférer le terme agent intelligent autonome>> \newline
-source: \url{https://fr.wikipedia.org/wiki/Agent_intelligent}},
+source: \url{https://fr.wikipedia.org/wiki/Agent_intelligent} \newline},
 agent intelligent autonome plus précisement, peut atteindre un objectif de manière itérative en 
-interagissant avec l'environement avec la meilleure performance possible.
+interagissant avec l'environnement avec la meilleure performance possible. \newline
 
 Contrairement au deep learning qui se base sur un set de données d'entraînement
 puis est utilisé sur de nouvelles données, un algorithme d'apprentissage profond
-et s'entraîne et s'améliore continuellement en utilisant les données qui lui sont 
-fournis
+s'entraîne et s'améliore continuellement en utilisant les données qui lui sont 
+fournis. \newline 
+
+Une des autres différences entre le Deep Learning et le Reinforced Learning 
+(qu'il soit composé d'un réseau de neurone ou non) est la différence des résultats, 
+dans le cas du Reinforced Learning le resultat obtenu en fonction des décisions
+prises est partiellement aléatoire ou du moins ne peut être determiné dans un ensemble finis 
+et prédéfinis à l'avance comme c'est le cas avec un algorithme de deep learning,
+de plus le résultat attendu peut ne pas se présenter immédiatement et arriver 
+qu'après un nombre aléatoire d'action puisque l'agent intelligent autonome qui utilise 
+l'apprentissage renforcé agis sur l'environnement qui est lui même la source de 
+ses entrée, ses actions peuvent l'éloigner du résultat attendu contrairement 
+au deep learning ou la rétropropagation 
+\footnote{<< la rétropropagation du gradient est une méthode pour calculer le gradient de l'erreur 
+pour chaque neurone d'un réseau de neurones, de la dernière couche vers la première. 
+De façon abusive, on appelle souvent technique de rétropropagation du gradient l'algorithme classique 
+de correction des erreurs basé sur le calcul du gradient grâce à la rétropropagation et 
+c'est cette méthode qui est présentée ici. En vérité, la correction des erreurs peut se faire selon 
+d'autres méthodes, en particulier le calcul de la dérivée seconde. Cette technique consiste à corriger 
+les erreurs selon l'importance des éléments qui ont justement participé à la réalisation de ces erreurs. 
+Dans le cas des réseaux de neurones, les poids synaptiques qui contribuent à engendrer une 
+erreur importante se verront modifiés de manière plus significative que les poids qui ont engendré 
+une erreur marginale.>> \newline
+Source: \url{https://fr.wikipedia.org/wiki/Rétropropagation_du_gradient}}
+impacte la manière dont les entrée 
+sont traitées mais pas les entrées elles-même, on peu faire de manière abstraite un rapprochement
+entre logique et machine learning où le Deep Learning serait la logique combinatoire et 
+l'apprentissage renforcé la logique séquentielle. \newline
+
+
+
+
+
 
 %contrairement au deep learning le RDL peut supporter une certaines quantité de noise dans ses information
 %alors que le deep learning doit avoir identifié ses features précisément, le RDL peut se contenté d'information
