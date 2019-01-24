@@ -91,9 +91,10 @@ https://www.wealthmanagement.com/technology/wealthfront-turns-artificial-intelli
 
 https://www.forbes.com/sites/bernardmarr/2018/11/30/the-amazing-ways-how-mastercard-uses-artificial-intelligence-to-stop-fraud-and-reduce-false-declines/#7fa9426d2165
 
-
+https://www.pymnts.com/mastercard/2018/ai-express-aml-fraud-risk-management/
 
 https://medicalfuturist.com/algorithms-robots-mimic-empathy
+
 
 //medecine
 https://towardsdatascience.com/why-ai-will-not-replace-radiologists-c7736f2c7d80
