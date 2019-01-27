@@ -121,6 +121,9 @@ https://www.quora.com/Is-there-something-that-Deep-Learning-will-never-be-able-t
 
 https://towardsdatascience.com/wth-does-a-neural-network-even-learn-a-newcomers-dilemma-bd8d1bbbed89
 
+//industrie
+https://emerj.com/partner-content/industrial-ai-applications-time-series-sensor-data-improve-processes/
+
 très interessant pour la partie 2
 https://www.quora.com/Can-neural-networks-create-consciousness
 
