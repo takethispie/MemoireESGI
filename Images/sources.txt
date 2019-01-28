@@ -7,3 +7,5 @@ vaqueryresult: https://loupventures.com/annual-digital-assistant-iq-test-siri-go
 accuracyperaccent: https://www.washingtonpost.com/graphics/2018/business/alexa-does-not-understand-your-accent/?utm_term=.81077ca71719
 pepper: https://fr.wikipedia.org/wiki/Pepper_(robot)#/media/File:Pepper_the_Robot.jpg
 reinforceddeeplearning: towardsdatascience.com
+industryfour: https://www.spectralengines.com/industry-4-0-and-how-smart-sensors-make-the-difference/
+
