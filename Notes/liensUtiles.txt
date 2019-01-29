@@ -161,3 +161,13 @@ https://www.techworld.com/apps-wearables/google-deepmind-what-is-it-how-it-works
 reinforcement learning:
 https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287
 
+
+industrie
+https://www.siemens.com/innovation/en/home/pictures-of-the-future/industry-and-automation/the-future-of-manufacturing-ai-in-industry.html
+
+https://www.fda.gov/Drugs/NewsEvents/ucm557448.htm
+
+https://www.siemens.com/innovation/en/home/pictures-of-the-future/digitalization-and-software/simulation-and-virtual-reality-simulations-gas-turbines.html
+
+https://emerj.com/ai-sector-overviews/machine-learning-in-manufacturing/
+
