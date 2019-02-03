@@ -637,13 +637,31 @@ de DeepMind Inc et Google plutôt que d'avoir un produit commercialisable.
         La première, loi NORM ou normale est celle par défaut, de nombreuses sécurités sont activée pour empecher 
         des mouvement brusque qui pourrait endommager l'avion ou même mettre en danger 
         les occupants de l'avion ainsi que des protection en tangage, angle d'attaque et inclinaison 
-        latérale.
+        latérale. \newline 
 
         La seconde, loi ALT1 ou Alternative 1 s'active quand certains disfonctionnements apparaissent
         comme par exemple une panne des gouvernes de profondeur ou panne des capteurs de volets.
+        \newline
 
         La troisième, loi ALT2 ou Alternative 2 qui est celle qui nous interesse particulièrement 
-        puisqu'il s'agit de celle qui s'est activé pour la vol 447, s'active  
+        puisqu'il s'agit de celle qui s'est activé pour la vol 447, s'active quand il y a un désacoord
+        entre les ADR (ordinateur calculant les informations tel que la vitesse entre autre)
+        et dans le cas d'une panne des ADR, ce qui etait consideré comme étant le cas avec 
+        le vol 447 puisque les sondes étant gelées les valeurs retourné était toutes erronnées
+        l'auto-pilote se désactive. 
+        \newline
+
+        La quatrième, loi DIR ou Directe s'active dans le cas de disfonctionnement majeur qui touche 
+        l'ensemble des systèmes de l'appareil, toutes les sécurités se désactive et le contrôle 
+        au manche n'est plus amortis.
+        \newline
+
+        Lors d'un fonctionnement en loi normal il n'est pas possible de faire décrocher l'avion 
+        même en tirant au maximum sur le manche, l'ordinateur de bord 
+        capte les donnée de commandes et les corrigent si elles ne respectent pas les règles 
+        lorsque les sondes Pitot on disfonctionnées, l'ordinateur de bord a désactivé le 
+        pilote automatique et est passé en loi alternative 2 
+
         
         
 
