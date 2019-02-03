@@ -121,8 +121,13 @@ https://www.quora.com/Is-there-something-that-Deep-Learning-will-never-be-able-t
 
 https://towardsdatascience.com/wth-does-a-neural-network-even-learn-a-newcomers-dilemma-bd8d1bbbed89
 
+
+
 //industrie
 https://emerj.com/partner-content/industrial-ai-applications-time-series-sensor-data-improve-processes/
+
+
+
 
 très interessant pour la partie 2
 https://www.quora.com/Can-neural-networks-create-consciousness
@@ -143,6 +148,8 @@ https://bookboon.com/blog/2013/12/francais-les-5-composantes-de-lintelligence-em
 
 infos pertinentes deep network
 https://ai.stackexchange.com/questions/2820/why-are-deep-neural-networks-and-deep-learning-insufficient-to-achieve-general-i
+
+
 
 IBM Watson: 
 https://thomaswdinsmore.com/2018/02/21/notes-on-a-watson-fail/
@@ -171,6 +178,8 @@ https://www.siemens.com/innovation/en/home/pictures-of-the-future/digitalization
 
 https://emerj.com/ai-sector-overviews/machine-learning-in-manufacturing/
 
+
+
 //medecine
 https://www.datarevenue.com/en/usecases/artificial-intelligence-in-medicine
 
@@ -183,3 +192,9 @@ https://healthitanalytics.com/news/top-5-use-cases-for-artificial-intelligence-i
 https://aicure.com/
 
 
+//resistance au changement 
+https://www.silicon.fr/intelligence-artificielle-entreprises-changement-226407.html?inf_by=5c56eb74671db8a2768b4ac9
+
+https://www.pwc.fr/fr/publications/data/du-big-data-a-l-ia-le-defi-des-entreprises-francaises.html
+
+https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-real/
