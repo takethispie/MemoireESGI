@@ -202,3 +202,51 @@ https://sloanreview.mit.edu/projects/artificial-intelligence-in-business-gets-re
 https://fr.blog.businessdecision.com/bigdata/2018/12/etude-intelligence-artificielle-entreprises/
 
 https://www.inc.com/thomas-koulopoulos/its-time-to-stop-calling-it-artificial-intelligence.html
+
+https://www.forbes.com/sites/kenkrogue/2017/09/11/artificial-intelligence-is-here-to-stay-but-consumer-trust-is-a-must-for-ai-in-business/#95969d8776e7
+
+https://gizmodo.com/trust-in-self-driving-cars-has-plummeted-in-the-last-6-1826220779
+
+
+
+//lecture diverse 
+https://medium.com/the-mission/why-building-your-own-deep-learning-computer-is-10x-cheaper-than-aws-b1c91b55ce8c
+
+
+
+//3ieme partie
+https://www.infoworld.com/article/3307103/artificial-intelligence/how-to-solve-ais-reproducibility-crisis.html
+
+http://science.sciencemag.org/content/359/6377/725
+
+
+
+//cost of machine learning 
+https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf
+
+
+
+//reduction du labeur 
+https://www.forbes.com/sites/quora/2017/01/18/how-much-will-ai-decrease-the-need-for-human-labor/#422a637575c0
+
+//rapport annuel AI
+http://cdn.aiindex.org/2018/AI%20Index%202018%20Annual%20Report.pdf
+
+https://aiindex.org/2017-report.pdf
+
+https://www.theverge.com/2018/12/12/18136929/artificial-intelligence-ai-index-report-2018-machine-learning-global-progress-research
+
+
+
+
+//explicabilité
+https://perso.math.univ-toulouse.fr/mllaw/home/statisticien/explicabilite-des-decisions-algorithmiques/
+
+https://www.legifrance.gouv.fr/eli/decret/2017/3/14/PRMJ1632786D/jo/texte
+
+
+
+//complexity vs performance 
+https://people.cs.vt.edu/vbimal/publications/Mlaas-IMC17.pdf
+
+
