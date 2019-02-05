@@ -263,3 +263,13 @@ https://people.cs.vt.edu/vbimal/publications/Mlaas-IMC17.pdf
 https://www.karna.ai/retail-shelf-monitoring
 
 https://hackernoon.com/artificial-intelligence-for-retail-shelf-monitoring-258f8c8d697c
+
+
+//coté juridique machine learning 
+https://www.legifrance.gouv.fr/eli/decret/2017/3/14/PRMJ1632786D/jo/texte
+
+https://perso.math.univ-toulouse.fr/mllaw/home/statisticien/explicabilite-des-decisions-algorithmiques/
+
+
+//10 jobs likely to be replaced and 10 that are not 
+https://blog.hubspot.com/marketing/jobs-artificial-intelligence-will-replace

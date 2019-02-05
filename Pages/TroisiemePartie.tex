@@ -42,11 +42,41 @@
         métiers sont les trois principaux points bloquants pour une évolution positive de 
         l'intelligence artificielle. \newline
 
-        \section{Explicabilité}
+        \section{Explicabilité et interprétabilité}
+            \subsection*{Définitions}
+            Explicabilité: 
+            \begin{quote}
+                << Une décision algorithmique est dite explicable s’il est possible d’en rendre compte 
+                explicitement à partir de données et caractéristiques connues de la situation. 
+                Autrement dit, s’il est possible de mettre en relation les valeurs prises 
+                par certaines variables (les caractéristiques) et leurs conséquences  
+                sur la prévision, par exemple d’un score, et ainsi sur la décision. >>
+                \footnote{Source: \url{https://perso.math.univ-toulouse.fr/mllaw/home/statisticien/explicabilite-des-decisions-algorithmiques/}}
+                \newline 
+            \end{quote}
+
+            Interprétabilité:
+            \begin{quote}
+                << Une décision algorithmique est dite interprétable s’il est possible d’identifier 
+                les caractéristiques ou variables qui participent le plus à la décision, 
+                voire même d’en quantifier l’importance. >>
+                \footnote{Source:\url{https://perso.math.univ-toulouse.fr/mllaw/home/statisticien/explicabilite-des-decisions-algorithmiques/}}
+                \newline
+            \end{quote}
+
             Une des raison de la resistance au changement est l'incapacité à comprendre 
             le fonctionnement interne d'une intelligence artificelle utilisant le machine learning, 
             ce qui rend une entreprise dépendant de cette dernière avec un maîtrise relative
             entre les mains des data scientists. \newline
+
+            Prenon l'exemple d'un algorithme standard, par exemple un arbre syntaxique abstrait
+            dans compilateur, il est aisé de comprendre le fonctionnement de chaque partie 
+            de l'arbre et l'impact dans le cas du changement de la valeur d'un noeud.
+            Dans le cas d'un algorithme de reconnaissance d'image par machine learning 
+            il est bien plus difficile de comprendre les variables en jeux lors du changement 
+            d'un pixel par exemple, aujourd'hui l'explicabilité et l'interprétabilité
+            du deep learning est nulle. \newline
+
             
             \begin{figure}[H]
                 \centering
@@ -54,10 +84,9 @@
                 \caption{Enjeux de l'explicabilité - actuia.com}
                 \label{fig:explicability}
             \end{figure}
-            \newpage
 
             Une intelligence artificelle en capacité de répondre aux besoins d'explicabilité 
-            doit pouvoir répondre aux questions suivantes:
+            doit pouvoir répondre aux questions suivantes: \newline 
 
             \begin{itemize}
                 \item Objectif d'une opération
@@ -113,7 +142,9 @@
             la comptabilité tel que QuickBooks et FreshBooks.
             \newline
 
-            \item 
+            \item Taches simples non répétitives comme 
+            les voitures taxi, les véhicules de livraison, l'objectif est d'aller d'un point A à 
+            un point B. \newline
         \end{itemize}
         
         
