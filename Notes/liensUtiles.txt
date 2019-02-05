@@ -215,14 +215,23 @@ https://medium.com/the-mission/why-building-your-own-deep-learning-computer-is-1
 
 
 //3ieme partie
+
+//reproducibility
 https://www.infoworld.com/article/3307103/artificial-intelligence/how-to-solve-ais-reproducibility-crisis.html
 
 http://science.sciencemag.org/content/359/6377/725
+
+https://towardsdatascience.com/the-reproducibility-crisis-and-why-its-bad-for-ai-c8179b0f5d38
 
 
 
 //cost of machine learning 
 https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf
+
+https://ai.google/research/pubs/pub43146
+
+https://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html
+
 
 
 
