@@ -10,4 +10,6 @@ reinforceddeeplearning: towardsdatascience.com
 industryfour: https://www.spectralengines.com/industry-4-0-and-how-smart-sensors-make-the-difference/
 447: http://www.lefigaro.fr/actualite-france/2011/05/25/01016-20110525ARTFIG00375-le-scenario-de-la-catastrophe-du-vol-af-447.php
 explicabilité: https://www.actuia.com/contribution/jean-cupe/linterpretabilite-de-lia-le-nouveau-defi-des-data-scientists/
+shelfAI: https://hackernoon.com/artificial-intelligence-for-retail-shelf-monitoring-258f8c8d697c
+
 
