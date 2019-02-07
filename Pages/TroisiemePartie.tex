@@ -30,9 +30,18 @@
     cette période montre que l'homme et les nations ont les capacités pour s'adapter 
     aux paysages économiques en perpétuels changement, mais les challenges à surmonter 
     avec l'intelligence artificelle sont différents puisqu'elle va et a déjà bousculée tout 
-    les domaines y compris l'agriculture et l'industrie, malgré cela pour que cette 
-    révolution soit aussi disruptives il y a de nombreux challenges à dépasser.
+    les domaines y compris l'agriculture et l'industrie, pour que cette 
+    révolution soit aussi disruptives il y a de nombreux challenges à dépasser:
+    \newline
 
+    \begin{itemize}
+        \item La resistance au changement.
+        \item Problèmes inhérent à la technologie (traités plus loin).
+        \item Le manque de confiance en l'intelligence artificelle. \newline
+    \end{itemize}
+
+    Les institutions ont aussi un jeu très important à jouer avec la mise en place 
+    de taxe, lois et règlementations du domaine de l'intelligence artificelle.
 
     \chapter{Surmonter les problèmes inhérent au machine learning }
         Des problèmes empecheront l'intelligence artificelle notamment à cause de l'utilisation 
@@ -42,7 +51,7 @@
         métiers sont les trois principaux points bloquants pour une évolution positive de 
         l'intelligence artificielle. \newline
 
-        \section{Explicabilité et interprétabilité}
+        \section{Explicabilité et Interprétabilité}
             \subsection*{Définitions}
             Explicabilité: 
             \begin{quote}
@@ -121,6 +130,23 @@
                 \label{fig:explicability}
             \end{figure}
 
+            l'interprétabilité n'est pas forcément obligatoire pour tout les systèmes 
+            faisant usage du machine learning, des systèmes basiques par exemple 
+            mais dans quel cas l'interprétabilité est nécéssaire ?  \newline
+    
+            \begin{quote}
+                << We argue that the need for interpretability
+                stems from an incompleteness in the problem formalization, creating a fundamental barrier to
+                optimization and evaluation. Note that incompleteness is distinct from uncertainty: the fused
+                estimate of a missile location may be uncertain, but such uncertainty can be rigorously quantified
+                and formally reasoned about. >>
+                \footnote{source: Towards A Rigorous Science of Interpretable Machine Learning \newline
+                Doshi-Velez and Been Kim \newline
+                \url{https://arxiv.org/pdf/1702.08608.pdf}}
+                \newline
+            \end{quote}
+
+        \newpage
         \section{Reproductibilité}
         L'explicabilité permettrait de faciliter la reproductibilité, tandis que sans celle-ci 
         aujourd'hui les data scientists rencontre une difficulté majeure: 
@@ -136,21 +162,7 @@
         identique il reste impossible de verifier la constance du cas de test en production. 
         \newline
 
-        l'interprétabilité n'est pas forcément obligatoire pour tout les systèmes 
-        faisant usage du machine learning, des systèmes basiques par exemple 
-        mais dans quel cas l'interprétabilité est nécéssaire ?  \newline
 
-        \begin{quote}
-            << We argue that the need for interpretability
-            stems from an incompleteness in the problem formalization, creating a fundamental barrier to
-            optimization and evaluation. Note that incompleteness is distinct from uncertainty: the fused
-            estimate of a missile location may be uncertain, but such uncertainty can be rigorously quantified
-            and formally reasoned about. >>
-            \footnote{source: Towards A Rigorous Science of Interpretable Machine Learning \newline
-            Doshi-Velez and Been Kim \newline
-            \url{https://arxiv.org/pdf/1702.08608.pdf}}
-            \newline
-        \end{quote}
 
 
 
@@ -159,18 +171,23 @@
             peut répondre, comme indiqué dans la partie précèdente une des principales difficulté réside 
             dans l'application concrète de celle-ci, à quel(s) besoin(s) peut répondre une 
             intelligence artificelle qu'un algorithme "traditionnel" ne peut pas ? 
+            \newline 
+
+            L'utilité première du machine learning est de traiter rapidement une grande 
+            quantité d'information plus ou moins impure avec éfficacité, la contrainte 
+            réside dans la quantité d'informations qu'il faut pour réaliser un modèle 
+            éfficace, si le domaine métier ne permet pas d'avoir des données en quantité 
+            suffisante le machine learning est une technologie peu pertinente. 
+            \newline 
+
+            Les performances ou le non determinisme que permet l'intelligence artificelle
+            peut ne pas être primordial, l'utilisation de cette technologie serait 
+            aurait même un impact négatif avec au final de "l'over-engineering" 
+            qui signifie l'utilisation d'une solution bien trop complexe et 
+            difficile à maintenir pour résoudre un problème. 
+            \newline  
 
 
-
-        %utilisation humain va shifter dans le luxe et petites serie dans l'industrie 
-        %un peu comme les voitures  monté à la main 
-        %un effet d'elite 
-        %l'IA va devenir le "bas de gamme" de la création de bien 
-        %tandis que les industries et à echelle humaine vont rentrer dans le luxe ? 
-        %le luxe ne "subis pas la crise"
-
-        %services utilisant l'IA pour desservir les endroit qui on peu ou pas accès 
-        %à lesdit services (ex: campagne )
     \chapter{Automatiser les taches sans grande valeur ajoutée}
 
         Nous avons vous dans la partie précédente que l'intelligence artificelle
@@ -226,20 +243,31 @@
         
         \section{Re-spécialisiation des métiers automatisés: le cas du caissier
         de banque et des distributeurs automatiques}
+        
+        L'apparition du premier guichet automatique banquaire en francee en 1968 
+        aurait dù sonner le glas des caissier banquaire, aujourd'hui 
+        plus communément connu sous le nom de conseiller ce qui donne un indice 
+        sur l'évolution de leur métiers changé par une technologie disruptive.
+        l'effet de l'arrivée des GAB a actuellement permis d'augmenter le 
+        nombre d'agences de proximité avec l'augmentation de revenu de ces derniers.
+        \newline
+
+        Exemple aux États-Unis avec le graphe ci-dessus, avec une situation semblable en France 
+        Le nombre de caissiers de banque a augmenté constament de manière 
+        logarithmique depuis le debut des années 1970, l'explication est 
+        le requalification du métier, aujourd'hui le conseiller 
+        est plus orienté vers la relation client et endosse aussi le rôle 
+        de commercial pour vendre des services de la banque à ses clients.
+
 
         \begin{figure}[H]
             \centering
-            \includegraphics[width=0.7\textwidth]{Images/bankteller}
-            \caption{Évolution des caissiers de banque et des distributeurs automatiques - actuia.com}
+            \includegraphics[width=0.9\textwidth]{Images/bankteller}
+            \caption{Évolution des caissiers de banque et des distributeurs automatiques - 
+            Bureau of labor statistics, Occupational Employement Survey }
             \label{fig:banktellerevolution}
         \end{figure}
 
-        %exemple des banquiers avant les distributeurs automatique qui se sont respecialisé 
-        %dans le conseil client et le commercial
-        %la proposition d'offre, la gestion d'investissement
-        
-        %explicabilité des IA: les IA qui détail leur "reflexion" pour arriver à leur résultat 
-        % => moins de resistance au changement 
         %as automation frees our time it increases the scope of what is possible we invent new ideas
         %new products
         %O-ring principle
@@ -247,5 +275,41 @@
         %build society with opportunity, problems is the institution
         % 
 
-    \chapter{l'intelligence artificelle comme un assistant de productivité}
+    \chapter{l'intelligence artificelle à notre service}
+    \section{Le supermarché du futur}
+    Le supermarché du futur est hautement connecté pour faciliter le plus possible 
+    à la fois l'experience des clients et la réalisation des tâches pour 
+    les employés. 
+
+    Les caddies sont connecté pour traiter les données de déplacement qui seront 
+    ensuite utilisée pour améliorer la disposition des rayons au sein du supermarché.
+
+    le supermarché fonctionne autour d'un système sans caisse basé sur des caméra 
+    et comme pour les supermarchés Amazon Go 
+    \footnote{Amazon opens a supermarket with no checkouts:  \url{https://www.bbc.com/news/business-42769096}} 
+    \newline
+
+    Gestion de rayon assisté par intelligence artificelle: 
+    
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=1\textwidth]{Images/shelfAI}
+        \caption{Gestion de rayon par IA - hackernoon.com }
+        \label{fig:shelfAI}
+    \end{figure}
+
+    Gestion du placement en rayon en fonction des données d'achat et du déplacement 
+    des caddies, inventaire automatique pour permettre de réduire 
+    le gaspillage et éviter tout manque d'articles. \newline 
+
+    Le système se base sur différent niveau de positionnement ainsi que les 
+    zones les plus propices pour pousser à l'achat, par exemple 
+    positionner les produit les plus acheté au "Touch Level" pour permettre 
+    à un individu de prendre le produit rapidement, tandis qu'il faut mettre 
+    les nouveaux produits ou produit à fort potentiel d'achat au niveau 
+    des yeux pour inciter à l'achat. \newline 
+
+
+    
+    
         
