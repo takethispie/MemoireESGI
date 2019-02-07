@@ -12,5 +12,6 @@ industryfour: https://www.spectralengines.com/industry-4-0-and-how-smart-sensors
 explicabilité: https://www.actuia.com/contribution/jean-cupe/linterpretabilite-de-lia-le-nouveau-defi-des-data-scientists/
 shelfAI: https://hackernoon.com/artificial-intelligence-for-retail-shelf-monitoring-258f8c8d697c
 accvsint: https://www.actuia.com/contribution/jean-cupe/linterpretabilite-de-lia-le-nouveau-defi-des-data-scientists/
+traffic: https://makeasmartcity.com/2017/10/24/surtrac-ai-enabled-traffic-signals/
 
 
