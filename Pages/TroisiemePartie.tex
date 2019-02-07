@@ -131,7 +131,31 @@
         aujourd'hui les data scientists rencontre une difficulté majeure: 
         l'incapacité à reproduire les modèles de machine learning d'autres data scientists 
         et chercheur voir même l'incapacité à reproduire ses propres modèles. \newline 
-            
+        
+        La reproductibilité est essentielle pour assurer la pérénité d'un modèles de représentation, 
+        et c'est la difficulté majeure car comment avoir un système fiable s'il est impossible 
+        d'avoir les même résultats entre un environement de développement, de test et celui 
+        utilisé en production ? l'interprétabilité permet de comprendre le fonctionnement 
+        d'un modèle mais aussi d'en assurer le bon fonctionnement ce qui n'est pas le cas 
+        pour une "boite noire" ou même si l'on obtiens des résultat semblable avec des données 
+        identique il reste impossible de verifier la constance du cas de test en production. 
+        \newline
+
+        l'interprétabilité n'est pas forcément obligatoire pour tout les systèmes 
+        faisant usage du machine learning, des systèmes basique par exemple 
+        mais dans quel cas l'interprétabilité est nécéssaire ?  \newline
+
+        \begin{quote}
+            << We argue that the need for interpretability
+            stems from an incompleteness in the problem formalization, creating a fundamental barrier to
+            optimization and evaluation. Note that incompleteness is distinct from uncertainty: the fused
+            estimate of a missile location may be uncertain, but such uncertainty can be rigorously quantified
+            and formally reasoned about. >>
+            \footnote{source: Towards A Rigorous Science of Interpretable Machine Learning \newline
+            Doshi-Velez and Been Kim \newline
+            \url{https://arxiv.org/pdf/1702.08608.pdf}}
+            \newline
+        \end{quote}
 
 
 
